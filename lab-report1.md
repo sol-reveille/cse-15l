@@ -15,12 +15,14 @@ However, if I hadn't, I would have had to install it from the [VS Code Website](
 I found my course specific account at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).
 
 In terminal, I ran ssh cs15lsp22zz@ieng6.ucsd.edu with zz being my account id. When it asked "Are you sure you want to continue connecting?" I typed in yes.
+
 ![image](https://user-images.githubusercontent.com/34292064/162669454-9aa178d0-c0af-4320-9046-19842e40dd39.png)
 
 *Remotely connected to the server.*
 
 ## Trying Some Commands
 Next, I ran some commands on the server. I tried ls, which worked, and ls /home/linux/ieng6/cs15lsp22/cs15lsp22abc (with the cs15lsp22 account being my groupmate's) which did not work.
+
 ![image](https://user-images.githubusercontent.com/34292064/162669580-ba5f0836-6984-4f21-b395-2788b4522a49.png)
 
 ## Moving Files with scp
