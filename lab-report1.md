@@ -1,6 +1,9 @@
-#Lab Report 1
+# Lab Report 1
+
 Elaine Chao
+
 A16894921
+
 4/10/2022
 
 ## Installing VS Code
