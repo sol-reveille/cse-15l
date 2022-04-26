@@ -1,5 +1,6 @@
 # Lab Report 2
 Elaine Chao
+
 A16894921
 
 ## Code change 1
