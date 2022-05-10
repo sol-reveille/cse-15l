@@ -48,3 +48,4 @@ I can also combine the scp and ssh commands into one line using a semicolon, as 
 
 ![image](https://user-images.githubusercontent.com/34292064/167544733-142c518d-1345-4087-ac83-83d4e634c188.png)
 
+This achieves basically the same effect in fewer lines, allowing me to run the markdown tester in the remote server.
