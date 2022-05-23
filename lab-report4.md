@@ -1,4 +1,4 @@
-#Lab Report 4
+# Lab Report 4
 
 [My markedown-parser implementation](https://github.com/sol-reveille/markdown-parser)
 
