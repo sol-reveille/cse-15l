@@ -5,3 +5,5 @@ Hi!
 [Lab Report 2](lab-report2.md)
 
 [Lab Report 3](lab-report3.md)
+
+[Lab Report 4](lab-report4.md)
