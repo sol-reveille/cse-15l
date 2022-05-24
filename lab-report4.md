@@ -1,4 +1,7 @@
 # Lab Report 4
+Elaine Chao
+
+A16894921
 
 [My markdown-parser implementation](https://github.com/sol-reveille/markdown-parser)
 
